@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.menu ul{
+  list-style: none;
+}
+.menu ul li{
+  padding:5px;
+  font-size: 20px;
+}
+.menu ul a{
+  color:black;
+}
+.menu ul li:hover{
+  background: grey;
+  border-radius: 10px;
+}
+.form-group{
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+
+ 
+}
+#search{
+  border-radius: 50px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.classname button{
+   margin: 13px;
+  padding:10px;
+}
+#micro{
+  float:right;
+}  
+#sub{
+  float:right;
+  padding:5px;
+}
+#sign{
+
+  border-color:black;
+}
+.classname1 button{
+  margin: 13px;
+  padding:10px;
+
+}
+.row{
+  margin: 13px;
+ padding:10px;
+ padding-right:10px;
+}
+.menu1 ul{
+  list-style: none;
+}
+.menu1{
+  
+ padding:20px;
+}
+.table{
+  background:green;
+}
+#format{
+  background:yellow;
+}
+#merge{
+  margin-left: 30px;
+}
+#stud{
+margin-right: 100px;
+  
+}
