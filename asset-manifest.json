@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Youtube/static/css/main.13a3173e.css",
+    "main.js": "/Youtube/static/js/main.6ca9a54e.js",
+    "static/js/787.175b8b0e.chunk.js": "/Youtube/static/js/787.175b8b0e.chunk.js",
+    "static/media/Hook.jpeg": "/Youtube/static/media/Hook.188bd54d03b4cbfc733f.jpeg",
+    "static/media/movie.png": "/Youtube/static/media/movie.adae46b399d85b3ec4de.png",
+    "static/media/comedy.jpeg": "/Youtube/static/media/comedy.88fea2c0870651071f99.jpeg",
+    "static/media/aditya.jpeg": "/Youtube/static/media/aditya.98853abdb608ad0c419f.jpeg",
+    "static/media/css.jpeg": "/Youtube/static/media/css.5c392471ec48e01c69c2.jpeg",
+    "static/media/adityalogo.jpeg": "/Youtube/static/media/adityalogo.6f66467ea51f8b27ef6b.jpeg",
+    "static/media/react.jpeg": "/Youtube/static/media/react.f05ba66b000824e1f80b.jpeg",
+    "static/media/tv.jpeg": "/Youtube/static/media/tv.98333ac4f279f731754e.jpeg",
+    "static/media/html.jpeg": "/Youtube/static/media/html.17bfee0edbb03306b846.jpeg",
+    "static/media/js.jpeg": "/Youtube/static/media/js.9c1948ca7d2951de95ef.jpeg",
+    "static/media/logo.png": "/Youtube/static/media/logo.c87142fc4c066477d04a.png",
+    "static/media/404.jpeg": "/Youtube/static/media/404.573044b09d4ad60e89db.jpeg",
+    "static/media/logo.svg": "/Youtube/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Youtube/index.html",
+    "main.13a3173e.css.map": "/Youtube/static/css/main.13a3173e.css.map",
+    "main.6ca9a54e.js.map": "/Youtube/static/js/main.6ca9a54e.js.map",
+    "787.175b8b0e.chunk.js.map": "/Youtube/static/js/787.175b8b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a3173e.css",
+    "static/js/main.6ca9a54e.js"
+  ]
+}
