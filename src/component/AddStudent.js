@@ -33,7 +33,7 @@ export default function AddStudent() {
       .then((response) => {
             console.log(response.data)
 
-            if(response.status==200)
+            if(response.status===200)
             {
                 alert('data inserted');
             }

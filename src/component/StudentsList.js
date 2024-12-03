@@ -24,7 +24,7 @@ export default function StudentsList() {
    axios.delete('http://localhost:5000/api/deletestudent/'+_id)
    .then((response)=>
    {
-     if(response.status==200)
+     if(response.status===200)
      {
       alert("data deleted");
 
